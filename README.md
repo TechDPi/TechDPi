@@ -4,7 +4,7 @@ My name is <b>Diego</b>, I am a self taught <a href="https://diegopierleoni.medi
 
 I am passionate about all things Programming, Data and new technologies. I care to write clean code, I am always excited to learn new technologies and help others.
 
-In the last 11 years I travelled the world making amazing life experiences. Since 2020 I live in Denmark and studying hard to switch my career into Data engineering. I’m currently learning Data Lakes.
+Since 2020 I live in Denmark and studying hard to switch my career into Data engineering. I’m currently learning Data Lakes.
   <br>
   <br>
  
