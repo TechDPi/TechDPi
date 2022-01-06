@@ -1,8 +1,8 @@
  Hi,
 
-My name is <b>Diego</b>, I am a self taught <a href="https://diegopierleoni.medium.com/">Computer Scientist<a>.
+My name is <b>Diego</b>, I am a self taught <a href="https://diegopierleoni.medium.com/">Software Engineer<a>.
 
-I am passionate about all things Programming, Data and new technologies. I care to write clean code, I am always excited to learn new technologies and help others.
+I am passionate about all things Programming, Data and new Technologies. I care to write clean code, I am always excited to learn new skills and help others.
 
 I live in Denmark and studying hard to switch my career into IT from 2022.
   <br>
