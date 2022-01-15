@@ -1,6 +1,6 @@
  Hi,
 
-My name is <b>Diego</b>, I am a self taught <a href="https://diegopierleoni.medium.com/">Software Engineer<a>.
+My name is <b>Diego</b>, I am looking to switch my carrer into a <a href="https://diegopierleoni.medium.com/">Developer<a> role in 2022.
 
 I am passionate about all things Programming, Data and new Technologies. I care to write clean code, I am always excited to learn new skills and help others.
 
