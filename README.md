@@ -1,10 +1,10 @@
  Hi,
 
-My name is <b>Diego</b>, I am looking to switch my carrer into a <a href="https://diegopierleoni.medium.com/">Developer<a> role in 2022.
+I am switching my career into a <a href="https://diegopierleoni.medium.com/">Developer<a> role in 2022.
 
-I am passionate about all things Programming, Data and new Technologies. I care to write clean code, I am always excited to learn new skills and help others.
+I am passionate about all things Programming, Cloud, Data and new Technologies. I care to write clean code, I am always excited to learn new skills and help others.
 
-I live in Denmark and studying hard to switch my career into IT from 2022.
+I live in Denmark and love it here :)
   <br>
   <br>
  
